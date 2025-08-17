@@ -1,4 +1,4 @@
-# Barriers and Patient Experiences Across-Ethnicities across Africa and Europe: A Qualitative Review
+# Are the barriers to accessing Assisted Reproductive Technology (ART) and the perceived experiences of care among different ethnicities of subfertile women similar across Africa and Europe? A systematic review and thematic synthesis of qualitative studies
 This repository presents a systematic review and thematic synthesis exploring the barriers faced by subfertile women of different ethnicities when accessing Assisted Reproductive Technology (ART) across Africa and Europe. The project applies a health systems lens to examine sociocultural, economic and structural factors shaping patient experiences.
 
 * Focus: Equity in reproductive health access
