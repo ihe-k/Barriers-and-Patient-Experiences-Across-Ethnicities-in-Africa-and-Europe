@@ -34,9 +34,9 @@ The aim of the literature search was to identify relevant studies that address t
 
 ##### 3. Database Selection:
 *The review covered multiple electronic bibliographic databases like:
-** EMBASE, MEDLINE, ASSIA, ERIC, CINAHL, and PubMed, representing disciplines in medicine, nursing, and social sciences.
-** Peer-reviewed fertility journals such as the International Journal of Fertility and Human Fertility were also searched to capture domain-specific research.
-*Additional manual searching through snowball sampling was conducted by reviewing the reference lists of eligible studies to identify other potentially relevant articles (Edwards et al. 2002; Pedro et al. 2018).
+  * EMBASE, MEDLINE, ASSIA, ERIC, CINAHL, and PubMed, representing disciplines in medicine, nursing, and social sciences.
+  * Peer-reviewed fertility journals such as the International Journal of Fertility and Human Fertility were also searched to capture domain-specific research.
+* Additional manual searching through snowball sampling was conducted by reviewing the reference lists of eligible studies to identify other potentially relevant articles (Edwards et al. 2002; Pedro et al. 2018).
 
 ##### 4. Timeframe:
 * The search covered studies published from 1978 (the introduction of IVF to the public) through to 31 March 2020. This timeframe was chosen to explore trends and changes over time particularly in patient autonomy, societal shifts and policy changes.
@@ -68,10 +68,10 @@ This search strategy is designed to maximise both recall (sensitivity) and preci
 * Population: Women who are clinically subfertile (in accordance with WHO guidelines) and can access ART in Africa and Europe.
 * Phenomenon of Interest: Perceived barriers to ART access and the perceived quality of care excluding studies focused solely on the efficacy of ART treatments.
 * Inclusion Criteria:
-** Women from diverse ethnic, linguistic and cultural backgrounds.
-** Studies exploring patient experiences from the time of ART diagnosis and treatment initiation (1978–2020).
-** Qualitative studies using methods like interviews, focus groups and ethnography.
-** Studies that provide a cross-ethnic or cross-geographic comparison of experiences.
+  * Women from diverse ethnic, linguistic and cultural backgrounds.
+  * Studies exploring patient experiences from the time of ART diagnosis and treatment initiation (1978–2020).
+  * Qualitative studies using methods like interviews, focus groups and ethnography.
+  * Studies that provide a cross-ethnic or cross-geographic comparison of experiences.
 
 ### Exclusion Criteria:
 * Studies without information on ethnicity.
@@ -86,7 +86,7 @@ Full-text articles underwent further review to determine eligibility and a PRISM
 Key study details (design, participants as well as context) and participant perspectives on ART access were extracted verbatim into a data extraction form.
 
 ### Critical Appraisal:
-** Appraisal Tool: Studies were assessed using the Critical Appraisal Skills Programme (CASP) to ensure methodological rigour and relevance.
+* Appraisal Tool: Studies were assessed using the Critical Appraisal Skills Programme (CASP) to ensure methodological rigour and relevance.
 
 ### Synthesis Process:
 #### Three-Stage Thematic Synthesis Approach:
@@ -106,10 +106,11 @@ Key study details (design, participants as well as context) and participant pers
 
 ## Relevance to Health Systems
 This review applies systems thinking by:
-Highlighting how intersectionality influences access and outcomes
-Linking patient-centred care with broader health equity goals
-Informing how reproductive services can be adapted to diverse populations
-Emphasising the importance of qualitative evidence in policy and service design
+
+* Highlighting how intersectionality influences access and outcomes
+* Linking patient-centred care with broader health equity goals
+* Informing how reproductive services can be adapted to diverse populations
+* Emphasising the importance of qualitative evidence in policy and service design
 
 ## Tools & Frameworks
 ### PICO Framework:
@@ -140,8 +141,8 @@ A tool used to explore how systemic factors (social, economic and cultural) affe
 ART-dissertation-access-barriers/
 ├── README.md               # Project overview and significance
 ├── dissertation.pdf        # Full dissertation with abstract
-├── lay-summary.md          # Non-technical summary for general/public use
-└── supplementary/          # Any optional figures, notes, or reference material
+├── abstract.md          # Non-technical summary for general/public use
+└── lay-summary.md          # Any optional figures, notes, or reference material
 ```
 
 ## Citation
