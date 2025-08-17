@@ -1,0 +1,2 @@
+# Barriers-and-Patient-Experiences-Across-Ethnicities-in-Africa-and-Europe
+This repository presents a systematic review and thematic synthesis exploring the barriers faced by subfertile women of different ethnicities when accessing Assisted Reproductive Technology (ART) across Africa and Europe. The project applies a health systems lens to examine sociocultural, economic and structural factors shaping patient experiences.
