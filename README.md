@@ -140,9 +140,9 @@ A tool used to explore how systemic factors (social, economic and cultural) affe
 ```plaintext
 ART-dissertation-access-barriers/
 ├── README.md               # Project overview and significance
-├── dissertation.pdf        # Full dissertation with abstract
-├── abstract.md          # Non-technical summary for general/public use
-└── lay-summary.md          # Any optional figures, notes, or reference material
+├── Dissertation.pdf        # Full dissertation with abstract
+├── Abstract.md          # Non-technical summary for general/public use
+└── Lay-Summary.md          # Any optional figures, notes, or reference material
 ```
 
 ## Citation
