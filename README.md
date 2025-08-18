@@ -146,4 +146,4 @@ ART-dissertation-access-barriers/
 ```
 
 ## Citation
-Author: [K. Ihebunezie]  Affiliation: MSc Evidence-Based Health Care [University of Oxford]  Year: 2021
+Author: [Katrina Iheb] Affiliation: MSc Evidence-Based Health Care [University of Oxford]  Year: 2021
